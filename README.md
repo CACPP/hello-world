@@ -1,2 +1,2 @@
 # hello-world
-First repository
+New to Java, looking to add Java programming to my skill set.
